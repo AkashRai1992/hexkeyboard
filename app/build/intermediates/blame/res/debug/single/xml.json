@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/xml/popup.xml",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/xml/popup.xml"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/xml/keyboard.xml",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/xml/keyboard.xml"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/xml/hexkbd.xml",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/xml/hexkbd.xml"
+    }
+]

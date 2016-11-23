@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/txt.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/txt.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_right.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_right.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/hex.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/hex.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_feedback_return.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_allright.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_allright.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_done.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_done.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_allleft.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_allleft.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_return.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_return.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_delete.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/drawable/sym_keyboard_left.png",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/drawable/sym_keyboard_left.png"
+    }
+]

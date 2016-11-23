@@ -1,0 +1,7 @@
+#Tue Nov 22 19:10:20 IST 2016
+base.0=/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_67c1dfa0b0aaaa5d7a479996cc885c0f9cfe24ba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08c561d5c362fa1128e69e3c661aa0e127c3646f/classes.dex
+base.1=/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08c561d5c362fa1128e69e3c661aa0e127c3646f
+file.0=/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_67c1dfa0b0aaaa5d7a479996cc885c0f9cfe24ba/classes.dex

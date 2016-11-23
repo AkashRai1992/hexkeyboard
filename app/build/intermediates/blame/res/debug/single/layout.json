@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/akashrai/09Keyboard/app/build/intermediates/res/merged/debug/layout/popup_layout.xml",
+        "source": "/home/akashrai/09Keyboard/app/src/main/res/layout/popup_layout.xml"
+    }
+]

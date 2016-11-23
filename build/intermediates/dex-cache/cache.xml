@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akashrai/09Keyboard/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c30300f0180dd63bd819f0297dc1772f0802f53a">
+        <dex dex="/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08c561d5c362fa1128e69e3c661aa0e127c3646f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akashrai/09Keyboard/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85d800bcfd39d17b7c5f459b117000712c834d9f">
+        <dex dex="/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_67c1dfa0b0aaaa5d7a479996cc885c0f9cfe24ba/classes.dex" />
+    </item>
+
+</items>
