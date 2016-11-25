@@ -5,33 +5,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="28539844641046"
+    timestamp="573538021723"
     token="1673874929927900631"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1589" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="176" />
     <task
         name="verifier"
-        duration="0" />
+        duration="5" />
 
     <artifact
-        location="/home/akashrai/09Keyboard/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="28218234634982"
+        timestamp="474017619624"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/akashrai/09Keyboard/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="573538021723"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/akashrai/09Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
     </build>
     <build
         timestamp="28539844641046"
